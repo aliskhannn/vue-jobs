@@ -43,18 +43,18 @@
       }
     },
     {
-      "id": "4",
-      "title": "Vue Front-End Developer",
       "type": "Part-Time",
+      "title": "Vue Front-End Dev",
       "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "salary": "$175K - $200K",
       "location": "Pheonix, AZ",
-      "salary": "$60K - $70K",
       "company": {
         "name": "Alpha Elite",
         "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
         "contactEmail": "contact@adipisicingelit.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "4"
     },
     {
       "id": "5",
@@ -99,20 +99,6 @@
       }
     },
     {
-      "id": "ac86",
-      "type": "Part-Time",
-      "title": "Sylvester Collins",
-      "description": "Totam blanditiis eius id suscipit sed.",
-      "salary": "$175K - $200K",
-      "location": "Mann Group",
-      "company": {
-        "name": "Friesen - Parker",
-        "description": "Marvin, Stroman and Schoen",
-        "contactEmail": "your.email+fakedata77119@gmail.com",
-        "contactPhone": "921-876-3003"
-      }
-    },
-    {
       "id": "c358",
       "type": "Internship",
       "title": "Elda Strosin",
@@ -124,6 +110,20 @@
         "description": "Bergstrom and Sons",
         "contactEmail": "your.email+fakedata66719@gmail.com",
         "contactPhone": "315-160-0761"
+      }
+    },
+    {
+      "id": "3b1f",
+      "type": "Part-Time",
+      "title": "Haven Boyle",
+      "description": "Quibusdam pariatur et.",
+      "salary": "$50K - $60K",
+      "location": "Marquardt LLC",
+      "company": {
+        "name": "Thompson - Wuckert",
+        "description": "Beahan Inc",
+        "contactEmail": "your.email+fakedata65367@gmail.com",
+        "contactPhone": "631-037-3152"
       }
     }
   ]
