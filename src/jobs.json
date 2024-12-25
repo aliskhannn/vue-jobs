@@ -83,6 +83,48 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "b5e3",
+      "type": "Part-Time",
+      "title": "Sylvester Collins",
+      "description": "Totam blanditiis eius id suscipit sed.",
+      "salary": "$175K - $200K",
+      "location": "Mann Group",
+      "company": {
+        "name": "Friesen - Parker",
+        "description": "Marvin, Stroman and Schoen",
+        "contactEmail": "your.email+fakedata77119@gmail.com",
+        "contactPhone": "921-876-3003"
+      }
+    },
+    {
+      "id": "ac86",
+      "type": "Part-Time",
+      "title": "Sylvester Collins",
+      "description": "Totam blanditiis eius id suscipit sed.",
+      "salary": "$175K - $200K",
+      "location": "Mann Group",
+      "company": {
+        "name": "Friesen - Parker",
+        "description": "Marvin, Stroman and Schoen",
+        "contactEmail": "your.email+fakedata77119@gmail.com",
+        "contactPhone": "921-876-3003"
+      }
+    },
+    {
+      "id": "c358",
+      "type": "Internship",
+      "title": "Elda Strosin",
+      "description": "Doloremque unde veniam vero ipsa.",
+      "salary": "$125K - $150K",
+      "location": "Lockman Inc",
+      "company": {
+        "name": "Langworth - Klein",
+        "description": "Bergstrom and Sons",
+        "contactEmail": "your.email+fakedata66719@gmail.com",
+        "contactPhone": "315-160-0761"
+      }
     }
   ]
 }
